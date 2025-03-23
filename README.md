@@ -1,15 +1,21 @@
-## Hi there, I'm SELVA PRADEEP K! 👋
+<div align="center" style="background: url('https://source.unsplash.com/1600x900/?technology,code') no-repeat center center; background-size: cover; padding: 40px; border-radius: 10px; color: white;">
+
+## Hi there, I'm **SELVA PRADEEP K!** 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%7C+Frontend+%7C+Problem+Solver;Currently+Learning+Go+(Golang)!)
+</div>
+
+<div align="center" style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 10px; color: white;">
 
 ### 🚀 About Me
-- 💻 **Passionate Full-Stack Developer**
-- 🔍 Solved **150+ problems** on [LeetCode](https://leetcode.com/u/selvapradeep2004/)
-- 🌱 Currently learning **Go (Golang)**
-- 🎯 Experienced in **Java, C, Node.js, React.js**
-- 🛠️ Working with **MongoDB, MySQL, ServiceNow**
-- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/selva-pradeep-k/)
-- 🛠️ Additional Skill: **ServiceNow**.
+- 💻 **Passionate Full-Stack Developer**<br>
+- 🔍 Solved **150+ problems** on [LeetCode](https://leetcode.com/selvapradeep2004/)<br>
+- 🌱 Currently learning **Go (Golang)**<br>
+- 🎯 Experienced in **Java, C, Node.js, React.js**<br>
+- 🛠️ Working with **MongoDB, MySQL, ServiceNow**<br>
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/selva-pradeep-k/)<br>
+- 🛠️ Additional Skill: **ServiceNow**.<br>
+</div>
 
 ---
 
@@ -42,14 +48,14 @@
 
 ### 📊 LeetCode Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/selvapradeep2004?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 ---
 
 ### 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selva-pradeep-k/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/selvapradeep2004/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/selvapradeep2004/)
 
 ---
 
