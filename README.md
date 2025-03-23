@@ -19,7 +19,7 @@
 
    </td>
    <td valign="top">
-      <img src="https://github.com/Selvapradeep2004/Selvapradeep2004/blob/main/logo.gif" alt="Logo GIF" width="550px"/>
+      <img src="https://github.com/Selvapradeep2004/Selvapradeep2004/blob/main/logo.gif" alt="Logo GIF" width="500px"/>
    </td>
   </tr>
 </table>
