@@ -1,16 +1,56 @@
-## Hi there 👋
+## Hi there, I'm SELVA PRADEEP K! 👋
 
-<!--
-**Selvapradeep2004/Selvapradeep2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%7C+Frontend+%7C+Problem+Solver;Currently+Learning+Go+(Golang)!)
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 **Passionate Full-Stack Developer**
+- 🔍 Solved **150+ problems** on [LeetCode](https://leetcode.com/u/selvapradeep2004/)
+- 🌱 Currently learning **Go (Golang)**
+- 🎯 Experienced in **Java, C, Node.js, React.js**
+- 🛠️ Working with **MongoDB, MySQL, ServiceNow**
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/selva-pradeep-k/)
+- 🛠️ Additional Skill: **ServiceNow**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+#### 🚀 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-03569B?style=for-the-badge&logo=c&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+#### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+#### 🏗️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+#### 🛢️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🛠️ Other Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-1BA0E2?style=for-the-badge&logo=servicenow&logoColor=white)
+
+---
+
+### 📊 LeetCode Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+---
+
+### 📫 Get in Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selva-pradeep-k/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/selvapradeep2004/)
+
+---
+
+🔥 *Always eager to learn and build awesome things!* 🚀
