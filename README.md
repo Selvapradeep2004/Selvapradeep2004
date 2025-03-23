@@ -4,8 +4,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%7C+Frontend+%7C+Problem+Solver;Currently+Learning+Go+(Golang)!)
 </div>
-
-<div align="left" style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 10px; color: white;">
+<table>
+  <tr>
+    <td valign="top">
 
 ### 🚀 About Me
 - 💻 **Passionate Full-Stack Developer**<br>
@@ -15,7 +16,13 @@
 - 🛠️ Working with **MongoDB, MySQL, ServiceNow**<br>
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/selva-pradeep-k/)<br>
 - 🛠️ Additional Skill: **ServiceNow**.<br>
-</div>
+
+   </td>
+   <td valign="top">
+      <img src="https://github.com/Selvapradeep2004/Selvapradeep2004/blob/main/logo.gif" alt="Logo GIF" width="550px"/>
+   </td>
+  </tr>
+</table>
 
 ---
 
