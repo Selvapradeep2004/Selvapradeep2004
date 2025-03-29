@@ -12,7 +12,7 @@
 - 💻 **Passionate Full-Stack Developer**<br>
 - 🔍 Solved **150+ problems** on [LeetCode](https://leetcode.com/selvapradeep2004/)<br>
 - 🌱 Currently learning **Go (Golang)**<br>
-- 🎯 Experienced in **Java, C, Node.js, React.js**<br>
+- 🎯 Experienced in **Java, C, Node.js**<br>
 - 🛠️ Working with **MongoDB, MySQL, ServiceNow**<br>
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/selva-pradeep-k/)<br>
 - 🛠️ Additional Skill: **ServiceNow**.<br>
@@ -36,7 +36,6 @@
 #### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### 🏠 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -48,7 +47,6 @@
 
 #### 🛠️ Other Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-1BA0E2?style=for-the-badge&logo=servicenow&logoColor=white)
 
 ---
