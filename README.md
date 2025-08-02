@@ -11,9 +11,9 @@
 ### 🚀 About Me
 - 💻 **Passionate Full-Stack Developer**<br>
 - 🔍 Solved **150+ problems** on [LeetCode](https://leetcode.com/selvapradeep2004/)<br>
-- 🌱 Currently learning **Go (Golang)**<br>
-- 🎯 Experienced in **Java, C, Node.js**<br>
-- 🛠️ Working with **MongoDB, MySQL, ServiceNow**<br>
+- 🌱 Currently learning **AI (Gen AI  )**<br>
+- 🎯 Experienced in **Java, C, React.js**<br>
+- 🛠️ Working with **SQL, ServiceNow**<br>
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/selva-pradeep-k/)<br>
 - 🛠️ Additional Skill: **ServiceNow**.<br>
 
@@ -30,7 +30,7 @@
 #### 🚀 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-03569B?style=for-the-badge&logo=c&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=white)
+![Gen AI](https://img.shields.io/badge/Gen%20AI-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 #### 🌐 Frontend
@@ -38,11 +38,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 🏠 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 #### 🛢️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🛠️ Other Tools
