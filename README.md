@@ -1,12 +1,13 @@
-<div align="center" style="background: url('https://source.unsplash.com/1600x900/?technology,code') no-repeat center center; background-size: cover; padding: 40px; border-radius: 10px; color: white;">
+<p align="center">
+  <img src="https://source.unsplash.com/1600x400/?technology,code" alt="Banner Image" width="100%" />
+</p>
 
-## Hi there, I'm **SELVA PRADEEP K!** 👋
+<h2 align="center">Hi there, I'm <strong>SELVA PRADEEP K!</strong> 👋</h2>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%7C+Frontend+%7C+Problem+Solver;Currently+Learning+AI+(Gen AI)!)
-</div>
-<table>
-  <tr>
-    <td valign="top">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%7C+Frontend+%7C+Problem+Solver;Currently+Learning+AI+(Gen+AI)!" alt="Typing animation" />
+</p>
+
 
 ### 🚀 About Me
 - 💻 **Passionate Full-Stack Developer**<br>
