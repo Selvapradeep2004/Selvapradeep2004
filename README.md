@@ -30,7 +30,6 @@
 #### 🚀 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-03569B?style=for-the-badge&logo=c&logoColor=white)
-![Gen AI](https://img.shields.io/badge/Gen%20AI-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 #### 🌐 Frontend
@@ -43,7 +42,8 @@
 #### 🛢️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🛠️ Other Tools
+#### 🛠️ Other Tools and  current Technology.
+![Gen AI](https://img.shields.io/badge/Gen%20AI-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-1BA0E2?style=for-the-badge&logo=servicenow&logoColor=white)
 
