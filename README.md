@@ -12,7 +12,10 @@
 
 
 ### 🚀 About Me
-- 💻 **Passionate Full-Stack Developer**<br>
+Sure! Here's the updated version:
+
+:
+- 💻 Passionate Java Backend Developer & ML/GenAI Engineer<br>
 - 🔍 Solved **150+ problems** on [LeetCode](https://leetcode.com/selvapradeep2004/)<br>
 - 🌱 Currently learning **AI (Gen AI  )**<br>
 - 🎯 Experienced in **Java, C, React.js**<br>
