@@ -2,7 +2,8 @@
 
   <h2>Hi , I'm <strong>SELVA PRADEEP K!</strong> 👋</h2>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%7C+Frontend+%7C+Problem+Solver;Currently+Learning+AI+(Gen+AI)!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Gen+AI+engineer" alt="Typing SVG" />
+
 
 </div>
 
