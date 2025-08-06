@@ -38,8 +38,9 @@
 #### 🏠 Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-#### 🛢️ Databases
+#### 🛢️ Language and tools for DB
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 🛠️ Other Tools and  current Technology.
 ![Gen AI](https://img.shields.io/badge/Gen%20AI-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
