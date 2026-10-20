@@ -13,17 +13,23 @@
 ### 🚀 About Me
 
 - 📱 Passionate **Android Developer** specializing in Kotlin and Java.<br>
+
 - 🔍 Solved **150+ problems** on [LeetCode](https://leetcode.com/selvapradeep2004/)<br>
+
 - 🎯 Experienced in **Android Development, MVVM Architecture, REST APIs, Retrofit, Room Database, Jetpack, MQTT, WebSocket, Face SDK, and SIP**.<br>
+
 - 💾 Experienced in working with **MySQL and Room Database**.<br>
+
 - 🌱 Currently learning **Generative AI (Gen AI)**.<br>
+
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/selva-pradeep-k/)<br>
+
 - 🛠️ Additional Skill: **ServiceNow**.<br>
 
-   </td>
-   <td valign="top">
+    </td>
+    <td valign="top">
       <img src="https://github.com/Selvapradeep2004/Selvapradeep2004/blob/main/logo.gif" alt="Logo GIF" width="500px"/>
-   </td>
+    </td>
   </tr>
 </table>
 
